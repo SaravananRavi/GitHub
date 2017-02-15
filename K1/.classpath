@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/activation.jar"/>
+	<classpathentry kind="lib" path="jars/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="jars/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="jars/mail.jar"/>
+	<classpathentry kind="lib" path="jars/org.apache.servicemix.bundles.xmlbeans-2.4.0_1.jar"/>
+	<classpathentry kind="lib" path="jars/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="jars/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="jars/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="jars/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="jars/xmlpublic-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Jar files/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
